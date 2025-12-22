@@ -1,0 +1,12 @@
+[project]
+name = "polars-pipelines-ex"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "polars>=1.36.1",
+    "pyarrow>=18.1.0",
+    "numpy>=2.2.1",
+    "faker>=33.1.0",
+]
