@@ -9,4 +9,5 @@ dependencies = [
     "pyarrow>=18.1.0",
     "numpy>=2.2.1",
     "faker>=33.1.0",
+    "pandas>=2.3.3",
 ]
