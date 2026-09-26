@@ -1,0 +1,6 @@
+# Direct dependencies for the Polars notebook project
+polars>=1.44.2
+jupyterlab>=4.0.0
+ipykernel>=6.0.0
+polars>=1.44.2
+numpy>=1.24.0
